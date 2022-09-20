@@ -1,3 +1,5 @@
+// docs: https://go.dev/doc/tutorial/handle-errors
+
 package main
 
 import (
