@@ -1,6 +1,13 @@
 // docs: https://go.dev/doc/tutorial/greetings-multiple-people
 // Return greetings for multiple people
 
+// docs: https://go.dev/doc/tutorial/compile-install
+// Compile and install the application
+// ```
+// go build
+// go install
+// hello
+// ```
 
 package main
 
